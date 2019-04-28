@@ -253,8 +253,8 @@ autoleaveroom = []
 targets = []
 Bots=[mid,Amid,Bmid,Cmid,Dmid,Emid]
 team = []
-admin = ["u832d6b22ecdb23a673a2ae6a8784f714"]
-owner = ["u832d6b22ecdb23a673a2ae6a8784f714"]
+admin = ["ufe278afdfb3617b8fd9919c9489b9ced"]
+owner = ["ufe278afdfb3617b8fd9919c9489b9ced"]
 god = admin + Bots + team
 
 wait = {
